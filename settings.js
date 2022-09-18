@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
-global.ownername = '♛ الامبراطور اياتو ♛'
-global.botname = '♛ غوجو بوت ♛'
-global.footer = '♛ غوجو بوت ♛'
+global.owner = ['212656152459']
+global.premium = ['212656152459']
+global.ownernomer = '212656152459'
+global.ownername = '♛ AYOUB ♛'
+global.botname = '♛ AYOUB بوت ♛'
+global.footer = '♛ L بوت ♛'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/KodtgrEaF0O1vSqw0e1k09'
 global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
-global.packname = 'https://Wa.Me/+96891103640'
-global.author = '♛ غوجو بوت ♛'
+global.packname = 'https://Wa.Me/+212656152459'
+global.author = '♛ لاتسرق انا اشوفك👀 AYOUB ♛'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
